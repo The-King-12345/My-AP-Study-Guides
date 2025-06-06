@@ -16,6 +16,6 @@ I have study guides for these AP tests (for the year specified):
 - AP Statistics (2025)
 - AP U.S. Government and Politics (2025)
 
-## Support Me!
+## Support Me
 
-If you appreciate these study guides, consider liking this page!
+If you appreciate these study guides, consider starring this repository!

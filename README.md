@@ -18,4 +18,4 @@ I have study guides for these AP tests (for the year specified):
 
 ## Support Me
 
-If you appreciate these study guides, consider starring this repository!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V31G4RQF)

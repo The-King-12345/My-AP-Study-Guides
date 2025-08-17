@@ -1,6 +1,6 @@
 # My AP Study Guides
 
-Hello I'm Alex and these are my study guides for the AP classes I have taken during high school.
+Hello! This website contains links to the AP study guides I created during high school.
 
 ## Which APs?
 
